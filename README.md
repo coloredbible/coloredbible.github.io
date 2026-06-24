@@ -1,2 +1,2 @@
 # coloredbible.github.io
-Colored Bible 2026.05
+Colored Bible 2026.06
